@@ -1,1 +1,1 @@
-# digital-electronics-1
+# H1 Digital Electronics 1 (DE1)
