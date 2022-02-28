@@ -46,5 +46,5 @@
 
 3. Link to your public EDA Playground example:
 
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/x/DM3D)
+   [https://www.edaplayground.com/labs2skapik](https://www.edaplayground.com/x/DM3D)
 
