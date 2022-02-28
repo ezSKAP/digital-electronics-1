@@ -9,7 +9,7 @@
 
 2. Equations of simplified SoP (Sum of the Products) form of the "greater than" function and simplified PoS (Product of the Sums) form of the "less than" function.
 
-   ![Logic functions](images/comparator_min.png)
+   ![Logic functions](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/images/obrázek_2022-02-28_195401.png)
 
 ### 4-bit comparator
 
@@ -41,7 +41,7 @@ p_stimulus : process
 
 2. Text console screenshot during your simulation, including reports.
 
-   ![your figure]()
+   ![your figure](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/images/obrázek_2022-02-28_195300.png)
    ![your figure](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/images/obrázek_2022-02-28_194833.png)
 
 3. Link to your public EDA Playground example:
