@@ -43,6 +43,7 @@
 2. Text console screenshot during your simulation, including reports.
 
    ![your figure]()
+   ![your figure](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/images/obrázek_2022-02-28_194833.png)
 
 3. Link to your public EDA Playground example:
 
