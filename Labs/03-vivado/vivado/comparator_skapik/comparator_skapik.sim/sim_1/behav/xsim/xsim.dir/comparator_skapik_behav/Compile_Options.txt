@@ -1,0 +1,1 @@
+-wto "c0ffac61df514caf809caf20488cc6e3" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "comparator_skapik_behav" "xil_defaultlib.comparator_skapik" -log "elaborate.log" 
