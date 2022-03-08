@@ -10,7 +10,7 @@ entity mux_3bit_4to1 is
     b_i : in  std_logic_vector(3 - 1 downto 0);
     c_i : in  std_logic_vector(3 - 1 downto 0);
     d_i : in  std_logic_vector(3 - 1 downto 0)
-
+    
     );
 end entity mux_3bit_4to1;
 
