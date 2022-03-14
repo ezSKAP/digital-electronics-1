@@ -111,7 +111,7 @@ end architecture testbench;
 
 2. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   ![your figure](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/images/obrazek.png)
 
 ### LED(7:4) indicators
 
