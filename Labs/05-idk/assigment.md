@@ -5,6 +5,14 @@
 1. Listing of VHDL architecture for T-type flip-flop. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
 ```vhdl
+entity t_ff_rst is
+    Port ( clk : in STD_LOGIC;
+           rst : in STD_LOGIC;
+           t : in STD_LOGIC;
+           q : out STD_LOGIC;
+           q_bar : out STD_LOGIC);
+end t_ff_rst;
+
 architecture Behavioral of t_ff_rst is
     -- It must use this local signal instead of output ports
     -- because "out" ports cannot be read within the architecture
@@ -21,8 +29,18 @@ begin
     p_t_ff_rst : process(clk)
     begin
         if rising_edge(clk) then
-
-        -- WRITE YOUR CODE HERE
+   
+                if (rst = '1') then
+                    q <= '0';
+                    q_bar <= '1';
+                else
+                    if (t = '0') then
+                    --no change
+                        s_q <= s_q;
+                    else
+                        s_q <= not s_q;
+                    end if;
+                end if;
 
         end if;
     end process p_t_ff_rst;
