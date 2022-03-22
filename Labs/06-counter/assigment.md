@@ -36,6 +36,8 @@
 2. Screenshot with simulated time waveforms. Test reset as well. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
    ![your figure](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/06-counter/images/image.png)
+   ![your figure](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/06-counter/images/image_reset.png)
+   ![your figure](https://github.com/ezSKAP/digital-electronics-1/blob/main/Labs/06-counter/images/image_enable.png)
 
 ### Two counters
 
