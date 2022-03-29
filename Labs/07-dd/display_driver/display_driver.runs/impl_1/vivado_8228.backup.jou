@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Mar 29 17:02:42 2022
+# Process ID: 8228
+# Current directory: D:/Documents/xskapi01/digital-electronics-1/Labs/07-dd/display_driver/display_driver.runs/impl_1
+# Command line: vivado.exe -log top1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top1.tcl -notrace
+# Log file: D:/Documents/xskapi01/digital-electronics-1/Labs/07-dd/display_driver/display_driver.runs/impl_1/top1.vdi
+# Journal file: D:/Documents/xskapi01/digital-electronics-1/Labs/07-dd/display_driver/display_driver.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top1.tcl -notrace
