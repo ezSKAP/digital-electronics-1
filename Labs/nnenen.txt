@@ -1,0 +1,8 @@
+###1.zpusob 
+jeden cudlik, cte se casem, podle delky stisknuti potom priradime . nebo - potom na zaklade slovniku prelotime pismena
+
+2.zpusob
+dva cudliky pravy tecka levy pomlcka, na zaklade zmacknuti cudliku priradime . nebo - a, dale pokracujeme jak u 1.
+zpusob pomoci jednicek a nul 
+databaze kde budeme porovnavat 
++ pres kablik posles vstupni signal
